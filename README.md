@@ -1,4 +1,4 @@
-<h1>Clima Tempo</h1>
+<h1 align="center">Clima Tempo</h1>
 <br>
 <br>
 <h2>Esse foi meu primeiro projeto com JavaScript</h2>
