@@ -8,4 +8,5 @@
 <li>CSS</li>
 <li>JS</li>
 <br>
+<p>Tela inicial:</p>
 <img src="https://github.com/peedrofariaa/clima-tempo/blob/master/desktop-clima.png?raw=true"/>
